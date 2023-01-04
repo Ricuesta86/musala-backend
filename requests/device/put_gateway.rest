@@ -1,0 +1,6 @@
+PUT  http://localhost:3001/api/gateway/63a2e66dd21001cb8882b106
+Content-Type: application/json
+
+{
+    "ipAddress":"192.168.0.20"
+}

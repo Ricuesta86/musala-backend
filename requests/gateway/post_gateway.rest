@@ -1,0 +1,8 @@
+POST http://localhost:3001/api/gateway
+Content-Type: application/json
+
+{
+    "serialNumber":"45654634",
+    "name":"Gateway 1",
+    "ipAddress":"192.168.0.2"
+}

@@ -1,0 +1,1 @@
+DELETE  http://localhost:3001/api/gateway/63a0386468445f7016f8cf02
